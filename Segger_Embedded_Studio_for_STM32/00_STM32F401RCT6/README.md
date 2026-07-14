@@ -10,7 +10,6 @@ The [STM32F401RCT6](https://www.st.com/en/microcontrollers-microprocessors/stm32
 |RAM        |64 Kbytes of SRAM|
 
 ## Board
----
 ![alt-текст](https://github.com/PivnevNikolay/STM32/blob/main/Segger_Embedded_Studio_for_STM32/00_STM32F401RCT6/photo/123.jpg "STM32F401RCT6")  
 отладочная плата  [Набор плат разработки STM32F401 V3.0 Huaxingfu](https://aliexpress.ru/item/1005008563118424.html?spm=a2g2w.orderdetail.0.0.7a604aa6pOZYNH&sku_id=12000045732693571&_ga=2.248575873.787013516.1783956761-2069102067.1781525207)  
 
