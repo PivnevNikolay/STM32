@@ -1,5 +1,4 @@
 ## STM32F401RCT6(STM32F401 V3.0 Huaxingfu)
----  
 The [STM32F401RCT6](https://www.st.com/en/microcontrollers-microprocessors/stm32f401rc.html) (STM32F401xB/STM32F401xC) devices are based on the high-performance Arm® Cortex® -M4 32-bit RISC core operating at a frequency of up to 84 MHz. The Cortex®-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.
 
 |   *Title* | *Parameter* | 
