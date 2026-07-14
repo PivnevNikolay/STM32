@@ -13,7 +13,7 @@ The [STM32F401RCT6](https://www.st.com/en/microcontrollers-microprocessors/stm32
 ### Board
 ---
 ![alt-текст](https://github.com/PivnevNikolay/Segger_Embedded_Studio_for_STM32/blob/main/01_STM32F103C8/photo/001.jpg "STM32F103C8T6")  
-отладочная плата  [набор плат разработки STM32F401 V3.0 Huaxingfu](https://aliexpress.ru/item/1005008563118424.html?spm=a2g2w.orderdetail.0.0.7a604aa6pOZYNH&sku_id=12000045732693571&_ga=2.248575873.787013516.1783956761-2069102067.1781525207)  
+отладочная плата  [набор плат разработки STM32F401 V3.0 Huaxingfu](https://aliexpress.ru/item/1005008563118424.html?spm=a2g2w.orderdetail.0.0.7a604aa6pOZYNH&sku_id=12000045732693571&_ga=2.248575873.787013516.1783956761-2069102067.1781525207)
 
 ### Development Environment
 ---  
